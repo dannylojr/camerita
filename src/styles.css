@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'Press Start 2P';
+    src: url('/home/user/camera/src/app/fonts/PressStart2P-Regular.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Press Start 2P', cursive;
+}
